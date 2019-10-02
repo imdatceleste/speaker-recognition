@@ -35,7 +35,7 @@ After training, you can use the trained model to predict speakers:
 
 The predict-path is just a directory containing .wav-files. All .wav-files will be analyzed...
 
-Copyright (c) 2018 MUNICH ARTIFICIAL INTELLIGENCE LABORATORIES GmbH
+Copyright (c) 2019 Imdat Solak
 All Rights Reserved.
 
 Written: 2018-01-28 10:00 CET, ISO (Imdat Solak)
